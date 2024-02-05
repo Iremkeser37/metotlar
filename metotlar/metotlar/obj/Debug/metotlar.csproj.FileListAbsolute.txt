@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\metotlar\metotlar\bin\Debug\metotlar.exe.config
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\metotlar\metotlar\bin\Debug\metotlar.exe
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\metotlar\metotlar\bin\Debug\metotlar.pdb
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\metotlar\metotlar\obj\Debug\metotlar.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\metotlar\metotlar\obj\Debug\metotlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\metotlar\metotlar\obj\Debug\metotlar.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\metotlar\metotlar\obj\Debug\metotlar.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\metotlar\metotlar\obj\Debug\metotlar.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\metotlar\metotlar\obj\Debug\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\metotlar\metotlar\obj\Debug\metotlar.exe
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\metotlar\metotlar\obj\Debug\metotlar.pdb
